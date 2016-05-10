@@ -1,0 +1,2 @@
+#!/bin/sh
+valgrind -v --leak-check=full --leak-resolution=high --show-reachable=yes --tool=memcheck "./"$1.ee

@@ -1,0 +1,14 @@
+1e+3		=	total number of particles	:: totNum
+1		=	summation density 	.true.
+0		= 	average velocity 	.false.
+0		=	config input 		.false.
+0		=	virtual part 		.false.
+0		=	vp_input 			.false.
+0		=	visc 				.false.
+0		=	ex_force			.false.
+1		=	visc artificial		.true.
+0		=	heat artificial		.false.
+0		=	self gravity		.false.
+0		=	nor density			.false.
+1		=	axial symmetry		0=no symm 1 = axial symm 2=central symm
+
